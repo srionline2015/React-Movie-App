@@ -1,5 +1,5 @@
 import React ,{useState, useEffect} from 'react';
-import "./style.css"
+import "./style.scss"
 import { useParams } from 'react-router-dom';
 import InfiniteScroll from 'react-infinite-scroll-component';
 import { fetchDataFromApi } from './../../utils/api';

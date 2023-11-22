@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import "./style.css";
+import "./style.scss";
 import { useNavigate } from 'react-router-dom';
 import useFetch from '../../../hooks/useFetch';
 import { useSelector } from 'react-redux';
